@@ -1,0 +1,6 @@
+[workspace]
+members = ["server", "api", "cli"]
+
+# 上記の記述をした後に、
+# cargo new --bin [members名]
+# でワークスペースを作成する
